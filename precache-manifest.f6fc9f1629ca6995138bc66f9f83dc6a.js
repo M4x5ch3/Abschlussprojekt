@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "8dc80acecb7c635d0196",
-    "url": "/Abschlussprojekt/static/css/main.6c647830.chunk.css"
+    "revision": "9eca3afa95843b86f23a",
+    "url": "/Abschlussprojekt/static/css/main.9fba833d.chunk.css"
   },
   {
-    "revision": "8dc80acecb7c635d0196",
-    "url": "/Abschlussprojekt/static/js/main.8dc80ace.chunk.js"
+    "revision": "9eca3afa95843b86f23a",
+    "url": "/Abschlussprojekt/static/js/main.9eca3afa.chunk.js"
   },
   {
     "revision": "97bc1625e33b04eb7828",
     "url": "/Abschlussprojekt/static/js/1.97bc1625.chunk.js"
   },
   {
-    "revision": "7d26b4b180e4cb66d923",
-    "url": "/Abschlussprojekt/static/js/2.7d26b4b1.chunk.js"
+    "revision": "db14d1aa77ab88fd1db2",
+    "url": "/Abschlussprojekt/static/js/2.db14d1aa.chunk.js"
   },
   {
     "revision": "a809bc8faac2f82dd73e",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/Abschlussprojekt/static/media/404.e05270ff.jpg"
   },
   {
-    "revision": "a5b66befe634373165e95f874c1b653f",
+    "revision": "a58f498f9e8f482176d8b55968d78c0f",
     "url": "/Abschlussprojekt/index.html"
   }
 ];
