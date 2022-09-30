@@ -12,16 +12,16 @@ function Help(match){
             </div>
             <div className="Help_text">
                 <p>
-                    •   Gespielt wird auf einem 10x10 Schachbrett oder auf einem internationalen Damebrett.
+                    •   Gespielt wird auf einem <span id="bold">quadratischen</span> Schachbrett oder auf einem internationalen Damebrett.
                 </p>
                 <p>
                     •	Ein Spieler spielt <span id="bold">weiß</span> und der andere <span id="bold">schwarz</span>
                 </p>
                 <p>
-                    •	Jeder Spieler hat <span id="bold">4 Amazonen</span> (Startposition: siehe Bild 1)
+                    •	Jeder Spieler hat eine selbstbestimmte Anzahl an <span id="bold">Amazonen</span>
                 </p>
                 <p>
-                    •	Außerdem gibt es etwa 50 Blockadesteine „giftige“ Pfeile
+                    •	Außerdem gibt es <span id="bold">Blockadesteine</span> „giftige“ Pfeile
                 </p>
                 <p>
                     •	Spieler ziehen abwechselnd – weiß beginnt
@@ -45,7 +45,7 @@ function Help(match){
             </div>
             <div className="Help_text">
                 <p>
-                    Dieses Front-End stellt das Zwischenprojekt für das Modul "Web- und Medienprogrammierung" an der Hochschule Anhalt - University of Applied Sciences dar.
+                    Dieses Front-End stellt das Abschlussprojekt für das Modul "Web- und Medienprogrammierung" an der Hochschule Anhalt - University of Applied Sciences dar.
                 </p>
                 <p>
                     Das Projekt wurde von:<br></br><br></br>
