@@ -15,12 +15,12 @@ function App() {
     return(
       <Router>
         <Routes>
-          <Route path="https://m4x5ch3.github.io/Abschlussprojekt/" element={<StartPage/>}/>
+          <Route exact path="https://m4x5ch3.github.io/Abschlussprojekt/" element={<StartPage/>}/>
           <Route exact path="/help" element={<Help/>}/>
           <Route exact path="/launchgame" element={<LaunchGame userId={0}/>}/>
           <Route exact path="/customizegame" element={<CustomizeGame/>}/>
           <Route exact path="/game" element={<Game/>}/>
-          <Route path="/statusboard" element={<StatusBoard/>}/>
+          <Route exact path="/statusboard" element={<StatusBoard/>}/>
           <Route exact path="/finishedgame" element={<FinishedGame/>}/>
         </Routes>
       </Router>
