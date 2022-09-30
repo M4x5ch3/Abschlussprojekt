@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "408345f05e36b4813f12",
+    "revision": "b148405fafff3c16a308",
     "url": "/Abschlussprojekt/static/css/main.9fba833d.chunk.css"
   },
   {
-    "revision": "408345f05e36b4813f12",
-    "url": "/Abschlussprojekt/static/js/main.408345f0.chunk.js"
+    "revision": "b148405fafff3c16a308",
+    "url": "/Abschlussprojekt/static/js/main.b148405f.chunk.js"
   },
   {
     "revision": "97bc1625e33b04eb7828",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/Abschlussprojekt/static/media/404.e05270ff.jpg"
   },
   {
-    "revision": "ff5b2ccebc093e1bb72e0f8981c3da38",
+    "revision": "0568ef1cbad49e5a88bebb3a019abb0b",
     "url": "/Abschlussprojekt/index.html"
   }
 ];
