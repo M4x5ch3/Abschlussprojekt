@@ -15,6 +15,7 @@ function App() {
     return(
       <Router>
         <Routes>
+          <Route path="*" element={<NotFound/>}/>
           <Route exact path="/" element={<StartPage/>}/>
           <Route exact path="/help" element={<Help/>}/>
           <Route exact path="/launchgame" element={<LaunchGame userId={0}/>}/>
