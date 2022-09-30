@@ -16,7 +16,7 @@ function App() {
       <Router>
         <Routes>
           <Route path="*" element={<NotFound/>}/>
-          <Route exact path="/" element={<StartPage/>}/>
+          <Route exact path="https://m4x5ch3.github.io/Abschlussprojekt/" element={<StartPage/>}/>
           <Route exact path="/help" element={<Help/>}/>
           <Route exact path="/launchgame" element={<LaunchGame userId={0}/>}/>
           <Route exact path="/customizegame" element={<CustomizeGame/>}/>
