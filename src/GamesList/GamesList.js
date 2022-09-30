@@ -12,7 +12,7 @@ function GamesList(props){
         });
 
     const getGameStatus = async (id) => {
-        window.open("/statusboard?id=" + id, "_blank");
+        window.open("#/statusboard?id=" + id, "_blank");
     }
 
     const joinGame = async(id) => {

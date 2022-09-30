@@ -18,7 +18,7 @@ function App() {
           <Route path="*" element={<NotFound/>}/>
           <Route exact path="/" element={<StartPage/>}/>
           <Route exact path="/help" element={<Help/>}/>
-          <Route exact path="/launchgame" element={<LaunchGame userId={0}/>}/>
+          <Route exact path="/launchgame" element={<LaunchGame/>}/>
           <Route exact path="/customizegame" element={<CustomizeGame/>}/>
           <Route exact path="/game" element={<Game/>}/>
           <Route exact path="/statusboard" element={<StatusBoard/>}/>
