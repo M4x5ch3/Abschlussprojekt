@@ -1,7 +1,7 @@
 {
   "main.css": "/Abschlussprojekt/static/css/main.6c647830.chunk.css",
-  "main.js": "/Abschlussprojekt/static/js/main.ddb63b05.chunk.js",
-  "main.js.map": "/Abschlussprojekt/static/js/main.ddb63b05.chunk.js.map",
+  "main.js": "/Abschlussprojekt/static/js/main.2e80972b.chunk.js",
+  "main.js.map": "/Abschlussprojekt/static/js/main.2e80972b.chunk.js.map",
   "static/js/1.97bc1625.chunk.js": "/Abschlussprojekt/static/js/1.97bc1625.chunk.js",
   "static/js/1.97bc1625.chunk.js.map": "/Abschlussprojekt/static/js/1.97bc1625.chunk.js.map",
   "static/js/2.0ae8b261.chunk.js": "/Abschlussprojekt/static/js/2.0ae8b261.chunk.js",
@@ -13,6 +13,6 @@
   "static/media/404.jpg": "/Abschlussprojekt/static/media/404.e05270ff.jpg",
   "static/css/main.6c647830.chunk.css.map": "/Abschlussprojekt/static/css/main.6c647830.chunk.css.map",
   "index.html": "/Abschlussprojekt/index.html",
-  "precache-manifest.3065837b8aefb079b836eae2b57c0eaa.js": "/Abschlussprojekt/precache-manifest.3065837b8aefb079b836eae2b57c0eaa.js",
+  "precache-manifest.ce6804f3327deff67e92ee5ad3f290cf.js": "/Abschlussprojekt/precache-manifest.ce6804f3327deff67e92ee5ad3f290cf.js",
   "service-worker.js": "/Abschlussprojekt/service-worker.js"
 }
