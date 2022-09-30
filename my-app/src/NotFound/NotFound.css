@@ -1,0 +1,54 @@
+.NotFound
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+}
+
+.NotFound_text
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.NotFound_image
+{
+    height: 70vh;
+    width: 70vw;
+}
+
+#image
+{
+    height: 779px;
+    width: 896px;
+}
+
+@media screen and (max-width: 920px)
+{
+    #image
+    {
+        height: 623px;
+        width: 716px;
+    }
+}
+
+@media screen and (max-width: 730px)
+{
+    #image
+    {
+        height: 467px;
+        width: 537px;
+    }
+}
+
+@media screen and (max-width: 550px)
+{
+    #image
+    {
+        height: 311px;
+        width: 358px;
+    }
+}

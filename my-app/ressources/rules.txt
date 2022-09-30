@@ -1,0 +1,10 @@
+•	Gespielt wird auf einem 10x10 Schachbrett oder auf einem internationalen Damebrett.
+•	Ein Spieler spielt WEIß und der andere SCHWARZ
+•	Jeder Spieler hat 4 AMAZONEN (Startposition: siehe Bild 1)
+•	Außerdem gibt es etwa 50 Blockadesteine „giftige“ Pfeile
+•	Spieler ziehen abwechselnd – weiß beginnt
+•	ZUG:
+    o	Amazone wird auf ein leeres benachbartes Feld oder über mehrere leere Felder in orthogonaler oder diagonaler Richtung bewegt. (Darf dabei über keine besetzten Felder; besetzt = eigene Dame, gegner. Dame oder Pfeil)
+    o	Anschließend verschießt die gezogene Amazone einen giftigen Pfeil. Dieser kann wie die Amazone orthogonal oder diagonal beliebig viele Felder zurücklegen. Darf jedoch kein Feld überqueren oder auf einem Feld landen, wo sich bereits ein Pfeil oder eine andere Amazone befindet.
+•	Es besteht Zugpflicht
+•	VERLOREN hat der Spieler, der zuerst nicht mehr ziehen kann

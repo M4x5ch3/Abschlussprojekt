@@ -1,0 +1,37 @@
+.finished_container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.finished_button_container
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    margin-top: 10vh;
+}
+
+.finished_button
+{
+    font-size: 1.25em;
+    margin: 10px;
+    padding: 16px 32px;
+    transition: 0.3s;
+    width: 10em;
+    border: 2px solid rgb(107, 107, 107);
+    background-color: white;
+}
+
+.finished_button:hover
+{
+    border: 2px solid black;
+    background-color: rgb(196, 223, 247);
+    transition: 0.3s;
+    margin: 10px;
+    cursor: pointer;
+}

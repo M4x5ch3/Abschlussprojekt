@@ -1,0 +1,68 @@
+.Help_page
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.Help_header
+{
+    height: 10vh;
+    position: sticky;
+}
+
+.Help_text
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: fit-content;
+    position: sticky;
+    width: 70vw;
+    margin-top: 4vh;
+}
+
+.Help_sub_header
+{
+   height: 10vh;
+   margin-top: 5vh;
+}
+
+#bold
+{
+    font-weight: bold;
+}
+
+@media screen and (max-width: 720px)
+{
+    .Help_text
+    {
+        width: 90vw;
+    }
+}
+
+.Help_return_container
+{
+    display: flex;
+    justify-content: center;
+    height: 8vh;
+    bottom: 0;
+}
+
+.Help_return_button
+{
+    font-size: 1em;
+    margin-right: 1vw;
+    padding: 10px 20px;
+    transition: 0.3s;
+    border: 2px solid rgb(107, 107, 107);
+    background-color: white;
+}
+
+.Help_return_button:hover
+{
+    border: 2px solid black;
+    background-color: rgb(196, 223, 247);
+    transition: 0.3s;
+    cursor: pointer;
+}
