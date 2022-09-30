@@ -15,7 +15,7 @@ function App() {
     return(
       <Router>
         <Routes>
-          <Route exact path="https://m4x5ch3.github.io/Abschlussprojekt/" element={<StartPage/>}/>
+          <Route path="https://m4x5ch3.github.io/Abschlussprojekt/" element={<StartPage/>}/>
           <Route exact path="https://m4x5ch3.github.io/Abschlussprojekt/help" element={<Help/>}/>
           <Route exact path="https://m4x5ch3.github.io/Abschlussprojekt/launchgame" element={<LaunchGame userId={0}/>}/>
           <Route exact path="https://m4x5ch3.github.io/Abschlussprojekt/customizegame" element={<CustomizeGame/>}/>
