@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import './App.css';
 import Help from '../Help/Help.js';
 import StartPage from "../StartPage/StartPage";
@@ -14,7 +14,7 @@ function App() {
 
     return(
       <Router>
-        <Routes>
+        <Switch>
           <Route path="https://m4x5ch3.github.io/Abschlussprojekt/" element={<StartPage/>}/>
           <Route exact path="/help" element={<Help/>}/>
           <Route exact path="/launchgame" element={<LaunchGame userId={0}/>}/>
@@ -22,7 +22,7 @@ function App() {
           <Route exact path="/game" element={<Game/>}/>
           <Route path="/statusboard" element={<StatusBoard/>}/>
           <Route exact path="/finishedgame" element={<FinishedGame/>}/>
-        </Routes>
+        </Switch>
       </Router>
     )
 }
